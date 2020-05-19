@@ -1,18 +1,3 @@
-Jupyter Notebook
-README
-Last Checkpoint: 26 minutes ago
-(autosaved)
-Current Kernel Logo
-Python 3 
-File
-Edit
-View
-Insert
-Cell
-Kernel
-Widgets
-Help
-
 # Using Pandas to Clean and Analyze Employee Exit Surveys
 ​
 <br><br>
