@@ -48,7 +48,7 @@ Our end goal was to combine both the surveys and answer the questions mentioned 
 - Combined the data, handled missing values and cleaned columns required for analysis.
 
 
-## CONCLUSIONS
+## CONCLUSION
 ![Image1](Number%20of%20Years%20in%20Service.png) 
 
 |   |   |
